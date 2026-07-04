@@ -46,7 +46,6 @@ ESG reporting platform developed for **Indian Post** to automate socio-economic 
 - 🌐 Deployed backend on **Railway** and frontend on **Vercel**
 - **Tech:** React.js, Flask, SQL, JWT, REST APIs
 
----
 
 ### 🤝 [NGO Volunteer Connect](https://github.com/miteshmahalle/Ngo-volunteer-connect)
 
@@ -57,7 +56,6 @@ A full-stack platform connecting NGOs and volunteers through a secure role-based
 - ⚡ Optimized database queries, improving API response time by **30–40%**
 - **Tech:** React.js, Django, Django REST Framework, MongoDB, Redux, JWT
 
----
 
 ### 🩺 [Healthcare Predictive System](https://github.com/miteshmahalle/Medvision_Predictive_System)
 
@@ -67,16 +65,6 @@ Machine Learning-powered healthcare platform for early disease prediction.
 - 🏥 Built secure patient, doctor, and admin modules with complete CRUD functionality
 - 📈 Achieved **94% prediction accuracy** using Scikit-learn models
 - **Tech:** Python, PHP, Scikit-learn, MySQL, HTML, CSS, JavaScript
-
----
-
-### Machine Learning
-
-- Scikit-Learn
-- Pandas
-- NumPy
-- Data Preprocessing
-- Predictive Analytics
 
 ---
 
