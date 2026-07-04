@@ -10,9 +10,7 @@ Full-Stack Python Developer · AI/ML Developer · Software Engineer
 
 <a href="mailto:miteshmahalle@gmail.com">
 📧 Email
-</a>
-
-•
+</a>•
 
 <a href="https://linkedin.com/in/contactmiteshmahalle">
 💼 LinkedIn
