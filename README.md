@@ -14,9 +14,7 @@ Full-Stack Python Developer · AI/ML Developer · Software Engineer
 
 <a href="https://linkedin.com/in/contactmiteshmahalle">
 💼 LinkedIn
-</a>
-
-•
+</a>•
 
 <a href="https://github.com/miteshmahalle">
 🐱 GitHub
