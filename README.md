@@ -27,7 +27,7 @@ Full-Stack Python Developer · AI/ML Developer · Software Engineer
 
 ## 🚀 About Me
 
-- 🎓 Final Year Computer Engineering Student
+- 🎓 Computer Engineering Graduate
 - 💻 Full-Stack Python & Backend Developer
 - ⚙️ Building scalable applications with **Django**, **Flask**, and **REST APIs**
 - 🤖 Enthusiastic about **Machine Learning** and **AI**
