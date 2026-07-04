@@ -35,45 +35,38 @@ Full-Stack Python Developer · AI/ML Developer · Software Engineer
 - 🚀 Passionate about solving real-world problems through technology
 
 
-# 🛠 Tech Stack
+## 🧩 Projects
 
-### Languages
+### 📮 [BRSR Report Generator](https://github.com/miteshmahalle/Post_services2)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ESG reporting platform developed for **Indian Post** to automate socio-economic data collection and reporting.
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-
----
-
-### Backend
-
-![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
-
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-
-![REST API](https://img.shields.io/badge/REST_API-blue?style=for-the-badge)
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge)
+- 🚀 Built secure **REST APIs** with Flask and implemented **JWT Authentication** & **Role-Based Access Control (RBAC)**
+- 📊 Developed role-based dashboards for Branch, Division, and Circle level users
+- 🌐 Deployed backend on **Railway** and frontend on **Vercel**
+- **Tech:** React.js, Flask, SQL, JWT, REST APIs
 
 ---
 
-### Frontend
+### 🤝 [NGO Volunteer Connect](https://github.com/miteshmahalle/Ngo-volunteer-connect)
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+A full-stack platform connecting NGOs and volunteers through a secure role-based system.
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
+- 👥 Built a platform supporting **100+ users** with separate NGO, Volunteer, and Admin roles
+- 🔐 Implemented **JWT Authentication**, **RBAC**, and an admin approval workflow
+- ⚡ Optimized database queries, improving API response time by **30–40%**
+- **Tech:** React.js, Django, Django REST Framework, MongoDB, Redux, JWT
 
 ---
 
-### Database
+### 🩺 [Healthcare Predictive System](https://github.com/miteshmahalle/Medvision_Predictive_System)
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+Machine Learning-powered healthcare platform for early disease prediction.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+- 🤖 Developed prediction models for **Diabetes**, **Heart Disease**, and **Parkinson's Disease**
+- 🏥 Built secure patient, doctor, and admin modules with complete CRUD functionality
+- 📈 Achieved **94% prediction accuracy** using Scikit-learn models
+- **Tech:** Python, PHP, Scikit-learn, MySQL, HTML, CSS, JavaScript
 
 ---
 
