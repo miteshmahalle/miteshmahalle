@@ -68,6 +68,51 @@ Machine Learning-powered healthcare platform for early disease prediction.
 
 ---
 
-### Tools
+## 💼 Experience
 
-Git • GitHub • Postman • Railway • Vercel • Google Colab
+### 💻 IT Intern | Immortal Tech *(Feb 2025 – Apr 2025)*
+
+Worked on developing scalable business management applications with a focus on backend development and secure REST APIs.
+
+- ⚙️ Developed business modules using **React.js**, **Django REST Framework**, and **SQL**
+- 🔐 Implemented **JWT Authentication**, **Role-Based Authorization**, and secure REST APIs
+- 🚀 Improved backend performance through **pagination** and **query optimization**
+- **Tech:** React.js, Django REST Framework, Python, SQL, JWT, REST APIs
+
+
+### 🌐 IT Intern | Manolita NGO *(Dec 2024 – Feb 2025)*
+
+Contributed to the development and enhancement of the NGO's official website to improve digital accessibility.
+
+- 🎨 Designed and customized responsive web pages for a better user experience
+- 📚 Improved access to digital learning resources for students
+- 📈 Enhanced UI/UX, increasing student access by **40%** and average session duration by **30%**
+- **Tech:** HTML, CSS, JavaScript, Responsive Design
+
+## 🛠️ Tech Stack
+
+**Languages**
+`Python` `C++` `C` `JavaScript` `HTML` `CSS`
+
+**Frontend**
+`React.js` `Tailwind CSS` `AJAX`
+
+**Backend**
+`Django` `Flask` `Node.js` `REST APIs` `JWT Authentication`
+
+**Databases**
+`MySQL` `MongoDB`
+
+**Machine Learning**
+`Scikit-learn` `Pandas` `NumPy` `Data Preprocessing`
+`Model Training` `Predictive Analytics`
+
+**Cloud**
+`Microsoft Azure (AZ-900)` `Railway` `Vercel`
+
+**Tools & DevOps**
+`Git` `GitHub` `Postman` `Google Colab`
+
+**Computer Science**
+`Data Structures` `DBMS` `Operating Systems`
+`OOP` `Computer Networks` `Debugging`
