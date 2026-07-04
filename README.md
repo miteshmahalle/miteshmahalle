@@ -25,13 +25,11 @@ Full-Stack Python Developer · AI/ML Developer · Software Engineer
 </p>
 
 
-## 👨‍💻 About Me
-🎓 Final Year B.E. Computer Engineering Student
+## 🚀 About Me
 
-💻 Full Stack Python Developer
-
-⚙️ Backend Developer (Django & Flask)
-🤖 Machine Learning Enthusiast
-📊 Learning Data Engineering & Azure Cloud
-🌱 Currently preparing for Microsoft Azure Fundamentals (AZ-900)
-🚀 Always learning new technologies and building impactful projects.
+- 🎓 Final Year Computer Engineering Student
+- 💻 Full-Stack Python & Backend Developer
+- ⚙️ Building scalable applications with **Django**, **Flask**, and **REST APIs**
+- 🤖 Enthusiastic about **Machine Learning** and **AI**
+- 📊 Exploring **Data Engineering** & **Azure Cloud**
+- 🚀 Passionate about solving real-world problems through technology
