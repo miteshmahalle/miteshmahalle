@@ -29,6 +29,7 @@ Full-Stack Python Developer · AI/ML Developer · Software Engineer
 🎓 Final Year B.E. Computer Engineering Student
 
 💻 Full Stack Python Developer
+
 ⚙️ Backend Developer (Django & Flask)
 🤖 Machine Learning Enthusiast
 📊 Learning Data Engineering & Azure Cloud
